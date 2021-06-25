@@ -18,6 +18,9 @@
         Example: Linux OS => linux payloads
                  Windows OS => Window payloads
      2. If this script found a vulnerable url so it will get automatically reverse shell.
+
+# Video:
+  https://www.youtube.com/watch?v=aJAdHOfMlQg
      
 # Contribute:
      [*] If u want to upgrade this script then dm me on https://facebook.com/unknownclay
